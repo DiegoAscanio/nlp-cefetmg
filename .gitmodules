@@ -1,0 +1,3 @@
+[submodule "ap-de-maquina-embedding"]
+	path = ap-de-maquina-embedding
+	url = https://github.com/DiegoAscanio/ap-de-maquina-embedding
